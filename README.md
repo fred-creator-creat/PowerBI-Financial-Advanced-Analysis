@@ -35,7 +35,7 @@ Este projeto é uma prova de **resiliência técnica** e foco em **eficiência d
 
 Abaixo, os links para o projeto e as capturas de tela. 
 
-* [📥 **Baixar Arquivo Power BI (.pbix)**](./PowerBI-Financial-Advanced-Analysis.pbix)  
+* [📥 **Baixar Arquivo Power BI (.pbix)**](./PowerBI-Financial-Advanced-Analysips.pbix)  
   > *Nota: É necessário ter o Microsoft Power BI Desktop instalado para visualizar o arquivo localmente.*
 
 ### 🖼️ Galeria de Telas (Clique para ampliar)
