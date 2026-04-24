@@ -57,7 +57,9 @@ Abaixo, os links para o projeto e as capturas de tela.
 
 ## ⚙️ Visualização das Páginas
 
-1. **Página 01 - Home & Sales:** ![Home e Sales](./02_Sales_Report.png)
+0. **Página Capa (Home) - Home:** ![Home](./01_Home_Dashboard.png)
+
+1. **Página 01 - Sales Report:** ![Sales Report](./02_Sales_Report.png)
 
 2. **Página 02 - Profit Analysis:** ![Profit Analysis](./03_Profit_Analysis.png)
 
