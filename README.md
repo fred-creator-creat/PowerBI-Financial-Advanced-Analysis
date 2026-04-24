@@ -15,10 +15,10 @@ Este repositório contém o projeto de **Análise Financeira Avançada**, focado
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **[Microsoft Power BI Desktop](https://powerbi.microsoft.com/)**: Desenvolvimento de DAX, ETL e interface visual.
-* **Design Nativo e Transparente**: Aplicação de efeitos de borda, contorno e transparência diretamente nos visuais para eliminar camadas desnecessárias.
-* **Lógica de Filtros Top N**: Implementação de rankings automáticos para identificação de produtos líderes.
-
+* **[Microsoft Power BI Desktop](https://powerbi.microsoft.com/)**: Centralização do desenvolvimento, desde a modelagem de dados (ETL) até a criação de medidas e interface visual.
+* **Design Nativo e Transparente**: Uso estratégico de recursos de formatação visual (bordas, contornos brancos para destaque e transparência de tela de fundo) para garantir um layout moderno sem sobrecarga de elementos de imagem.
+* **Criação de Grupos de Dados (Compartimentos)**: Implementação de lógica de **Bins (Compartimentos)** no campo `Units Sold` para a construção do Histograma, permitindo uma análise granular da distribuição de frequência das unidades vendidas.
+* **Filtragem Avançada (Top N)**: Configuração de filtros de visualização com lógica de **N Superior**, permitindo que o relatório identifique e exiba automaticamente apenas os 3 produtos líderes em vendas, mantendo o foco nos principais indicadores de performance.
 ---
 
 ## ⚠️ Justificativa Técnica e Adaptações de Ambiente
